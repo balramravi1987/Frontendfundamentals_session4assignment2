@@ -1,0 +1,9 @@
+.margindiv {
+    margin: 25px;
+    padding: 35px;
+    width: 205px;
+    background-color: #97CCF1;
+    border-style: solid;
+    border-color: #000070;
+    border-width: 25px;
+}
